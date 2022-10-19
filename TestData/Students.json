@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "John",
+    "Age": 16,
+    "Marks": {
+      "Maths": 6,
+      "Literature": 6,
+      "Chemistry": 6,
+      "Programming": 6
+    }
+  },
+  {
+    "Name": "Anna",
+    "Age": 18,
+    "Marks": {
+      "Maths": 6,
+      "Literature": 6,
+      "Chemistry": 6,
+      "Programming": 6
+    }
+  },
+  {
+    "Name": "Tom",
+    "Age": 16,
+    "Marks": {
+      "Maths": 5,
+      "Literature": 6,
+      "Chemistry": 4,
+      "Programming": 4
+    }
+  },
+  {
+    "Name": "Jim",
+    "Age": 17,
+    "Marks": {
+      "Maths": 3,
+      "Literature": 6,
+      "Chemistry": 3,
+      "Programming": 5
+    }
+  }
+]
